@@ -1,0 +1,11 @@
+# Electricity Demand Forecasting — Python dependencies
+# Tested with Python 3.10. Install with:  pip install -r requirements.txt
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scipy>=1.10
+statsmodels>=0.14
+scikit-learn>=1.3
+torch>=2.0
+holidays>=0.40      # optional; features degrade gracefully if absent
+jupyter>=1.0        # to open and run the notebook
